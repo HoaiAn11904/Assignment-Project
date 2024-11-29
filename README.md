@@ -11,7 +11,7 @@ The Syringe Pump Project involves designing and developing a system that accurat
 ![Block Diagram](Block Diagram.png)
 
 ## State Diagram
-![State Diagram](./path/to/your/statediagram.png)
+![State Diagram](.State Diagram.png)
 
 ## Acknowledgements
 This project was done as part of a university group assignment to understand and build an automated fluid dispensing system.
