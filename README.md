@@ -5,10 +5,10 @@
 The Syringe Pump Project involves designing and developing a system that accurately dispenses fluids using a syringe. The project aims to understand the mechanics of fluid dispensing, control systems, and safety checks in automated systems.
 
 ## Flow Chart
-![Flow Chart](./path/to/your/flowchart.png)
+![Flow Chart](.Flowchart.png)
 
 ## Block Diagram
-![Block Diagram](./path/to/your/blockdiagram.png)
+![Block Diagram](.)
 
 ## State Diagram
 ![State Diagram](./path/to/your/statediagram.png)
