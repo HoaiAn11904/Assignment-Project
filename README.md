@@ -8,7 +8,7 @@ The Syringe Pump Project involves designing and developing a system that accurat
 ![Flow Chart](Flowchart.png)
 
 ## Block Diagram
-![Block Diagram]()
+![Block Diagram](Block Diagram.png)
 
 ## State Diagram
 ![State Diagram](./path/to/your/statediagram.png)
